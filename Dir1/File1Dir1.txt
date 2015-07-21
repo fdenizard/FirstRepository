@@ -1,0 +1,2 @@
+#This is the first file in Directory1
+This file will be used to test some of the git functionalities
